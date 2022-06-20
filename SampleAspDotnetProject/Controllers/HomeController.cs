@@ -22,7 +22,7 @@ namespace SampleAspDotnetProject.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Your Aditya page.";
 
             return View();
         }
