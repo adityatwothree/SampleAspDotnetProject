@@ -22,7 +22,7 @@ namespace SampleAspDotnetProject.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your Demo COntact after 3rd Change page.";
+            ViewBag.Message = "This is a change page.";
 
             return View();
         }
